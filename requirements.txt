@@ -1,0 +1,15 @@
+numpy
+matplotlib
+sklearn
+pandas
+jupyter
+ramp-workflow
+seaborn
+xgboost
+geopandas
+Ipython
+folium
+google.colab
+json
+requests
+os

@@ -1,6 +1,6 @@
 # RAMP Starting kit pour prédiction du taux d'abstention
 
-Auteurs : Ahmed Essakouri, Arnaud Venencie, Céline Boegler, Ludovic Figarella et Margot Herin
+*Auteurs : Ahmed Essakouri, Arnaud Venencie, Céline Boegler, Ludovic Figarella et Margot Herin*
 
 Dans le cadre du cours Data Camp, au sein du Data Science Masters de l'Institut Polytechnique
 de Paris, nous avons élaboré un projet en Data Science ayant pour objectif de prédire au mieux un aspect social, scientifique ou économique.
@@ -35,7 +35,7 @@ Pour commencer, ouvrez le notebook qui vous donnera des détails sur le challeng
 Pour tester le "starting-kit", lancez
 
 ```shell
-ramp_test_submission --quick-test
+ramp_test_submission --submission starting_kit
 ```
 
 Ou pour le faire en mode test :
