@@ -30,7 +30,7 @@ Ouvrez un terminal et installez la bibliothèque ramp-workflow (si ce n'est pas 
 
 ## Notebook
 
-Pour commencer, ouvrez le notebook qui vous donnera des détails sur le challenge et quelques analyses des données.
+Pour commencer, ouvrez le [notebook](https://github.com/celineboegler/Data_camp_groupe15_elections/blob/main/Notebook_final.ipynb) qui vous donnera des détails sur le challenge et quelques analyses des données.
 
 Pour tester le "starting-kit", lancez
 
